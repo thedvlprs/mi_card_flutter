@@ -6,8 +6,8 @@ Mi Card is a personal bc. Imagine every time you wanted to give someone your con
 
 ## Demo
 
-<img src="demo.gif" alt="" width="200" />
-<img src="demo-2.png" alt="" width="550" />
+<img src="demo.gif" alt="" width="100" />
+<img src="demo-2.png" alt="" width="370" />
 
 
 
